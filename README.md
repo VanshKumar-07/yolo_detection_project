@@ -1,8 +1,8 @@
 # Real-Time Object Detection Pipeline
 
 ## Project Details
-* **Intern ID:** [Your ID]
-* **Full Name:** [Your Name]
+* **Intern ID:** [CITS3772]
+* **Full Name:** [Vansh Kumar]
 * **No. of Weeks:** 4
 
 ## Project Scope
